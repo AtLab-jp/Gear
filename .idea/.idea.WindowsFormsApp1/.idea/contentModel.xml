@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WindowsFormsApp1" t="IncludeRecursive">
+        <e p=".Designer.cs" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Debug.cs" t="Include" />
+        <e p="Debug.Designer.cs" t="Include" />
+        <e p="Debug.resx" t="Include" />
+        <e p="EndProcessing.cs" t="Include" />
+        <e p="EndProcessing.Designer.cs" t="Include" />
+        <e p="EndProcessing.resx" t="Include" />
+        <e p="Exit説明.cs" t="Include" />
+        <e p="Exit説明.Designer.cs" t="Include" />
+        <e p="Exit説明.resx" t="Include" />
+        <e p="forc.cs" t="Include" />
+        <e p="forc.Designer.cs" t="Include" />
+        <e p="forc.resx" t="Include" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="Form2.cs" t="Include" />
+        <e p="Form2.Designer.cs" t="Include" />
+        <e p="Form2.resx" t="Include" />
+        <e p="Form3.cs" t="Include" />
+        <e p="Form3.Designer.cs" t="Include" />
+        <e p="Form3.resx" t="Include" />
+        <e p="Form4.cs" t="Include" />
+        <e p="Form4.Designer.cs" t="Include" />
+        <e p="Form4.resx" t="Include" />
+        <e p="for説明.cs" t="Include" />
+        <e p="for説明.resx" t="Include" />
+        <e p="getchar.cs" t="Include" />
+        <e p="getchar.Designer.cs" t="Include" />
+        <e p="getchar.resx" t="Include" />
+        <e p="getchar説明.cs" t="Include" />
+        <e p="getchar説明.Designer.cs" t="Include" />
+        <e p="getchar説明.resx" t="Include" />
+        <e p="if.cs" t="Include" />
+        <e p="if.designer.cs" t="Include" />
+        <e p="if.resx" t="Include" />
+        <e p="if説明.cs" t="Include" />
+        <e p="if説明.Designer.cs" t="Include" />
+        <e p="if説明.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Pass.cs" t="Include" />
+        <e p="Pass.Designer.cs" t="Include" />
+        <e p="Pass.resx" t="Include" />
+        <e p="Printf.cs" t="Include" />
+        <e p="Printf.Designer.cs" t="Include" />
+        <e p="Printf.resx" t="Include" />
+        <e p="printf説明.cs" t="Include" />
+        <e p="printf説明.Designer.cs" t="Include" />
+        <e p="printf説明.resx" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="rand.cs" t="Include" />
+        <e p="rand.Designer.cs" t="Include" />
+        <e p="rand.resx" t="Include" />
+        <e p="rand説明.cs" t="Include" />
+        <e p="rand説明.Designer.cs" t="Include" />
+        <e p="rand説明.resx" t="Include" />
+        <e p="Resources" t="Include">
+          <e p="diamond_background.png" t="Include" />
+          <e p="diamond_select.png" t="Include" />
+          <e p="end.png" t="Include" />
+          <e p="endup_image.png" t="Include" />
+          <e p="endup_select.png" t="Include" />
+          <e p="for.png" t="Include" />
+          <e p="for_background.png" t="Include" />
+          <e p="for_end.png" t="Include" />
+          <e p="for_end_background.png" t="Include" />
+          <e p="for_end_select.png" t="Include" />
+          <e p="for_select.png" t="Include" />
+          <e p="Gear icon.ico" t="Include" />
+          <e p="getchar.png" t="Include" />
+          <e p="getchar_select.png" t="Include" />
+          <e p="if.png" t="Include" />
+          <e p="if_background.png" t="Include" />
+          <e p="if_bmp.bmp" t="Include" />
+          <e p="if_end.png" t="Include" />
+          <e p="if_migi.png" t="Include" />
+          <e p="if_migi_select.png" t="Include" />
+          <e p="if_select.png" t="Include" />
+          <e p="if_sita.png" t="Include" />
+          <e p="if_sita_select.png" t="Include" />
+          <e p="new_scanf_test.png" t="Include" />
+          <e p="printf (1).jpg" t="Include" />
+          <e p="printf.jpg" t="Include" />
+          <e p="printf.png" t="Include" />
+          <e p="printf_select.png" t="Include" />
+          <e p="rand.png" t="Include" />
+          <e p="rand_select.png" t="Include" />
+          <e p="scanf.png" t="Include" />
+          <e p="scanf_select.png" t="Include" />
+          <e p="sleep.png" t="Include" />
+          <e p="sleep_select.png" t="Include" />
+          <e p="start.png" t="Include" />
+          <e p="start_select.png" t="Include" />
+          <e p="substitute.png" t="Include" />
+          <e p="substitute_select.png" t="Include" />
+          <e p="test_if_GIF.gif" t="Include" />
+          <e p="while.png" t="Include" />
+          <e p="while_background.png" t="Include" />
+          <e p="while_end.png" t="Include" />
+          <e p="while_end_select.png" t="Include" />
+          <e p="while_select.png" t="Include" />
+          <e p="ゴミ箱.png" t="Include" />
+          <e p="スクリーンショット (39).png" t="Include" />
+          <e p="拝啓[1].png" t="Include" />
+        </e>
+        <e p="Scanf.cs" t="Include" />
+        <e p="Scanf.Designer.cs" t="Include" />
+        <e p="Scanf.resx" t="Include" />
+        <e p="scanf説明.cs" t="Include" />
+        <e p="scanf説明.Designer.cs" t="Include" />
+        <e p="scanf説明.resx" t="Include" />
+        <e p="Sleep.cs" t="Include" />
+        <e p="Sleep.Designer.cs" t="Include" />
+        <e p="Sleep.resx" t="Include" />
+        <e p="sleep説明.cs" t="Include" />
+        <e p="sleep説明.Designer.cs" t="Include" />
+        <e p="sleep説明.resx" t="Include" />
+        <e p="substitute説明.cs" t="Include" />
+        <e p="substitute説明.Designer.cs" t="Include" />
+        <e p="substitute説明.resx" t="Include" />
+        <e p="Substitution.cs" t="Include" />
+        <e p="Substitution.Designer.cs" t="Include" />
+        <e p="Substitution.resx" t="Include" />
+        <e p="switchcase説明.cs" t="Include" />
+        <e p="switchcase説明.Designer.cs" t="Include" />
+        <e p="switchcase説明.resx" t="Include" />
+        <e p="while.cs" t="Include" />
+        <e p="while.Designer.cs" t="Include" />
+        <e p="while.resx" t="Include" />
+        <e p="while説明.cs" t="Include" />
+        <e p="while説明.Designer.cs" t="Include" />
+        <e p="while説明.resx" t="Include" />
+        <e p="WindowsFormsApp1.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="WindowsFormsApp1.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_WindowsFormsApp1.-1059851277.00" t="ExcludeRecursive" />
+  </component>
+</project>

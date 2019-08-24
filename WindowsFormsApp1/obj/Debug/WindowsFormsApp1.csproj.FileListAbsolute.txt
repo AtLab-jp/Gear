@@ -1,0 +1,379 @@
+c:\users\15190\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\15190\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\15190\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\15190\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DD.exe.config
+C:\Users\15190\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DD.exe
+C:\Users\15190\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DD.pdb
+C:\Users\15190\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DD.Properties.Resources.resources
+C:\Users\15190\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DD.exe
+C:\Users\15190\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DD.pdb
+C:\Users\Ibuki\Downloads\Double\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DD.exe.config
+C:\Users\Ibuki\Downloads\Double\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DD.exe
+C:\Users\Ibuki\Downloads\Double\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DD.pdb
+C:\Users\Ibuki\Downloads\Double\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Ibuki\Downloads\Double\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ibuki\Downloads\Double\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DD.Properties.Resources.resources
+C:\Users\Ibuki\Downloads\Double\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Ibuki\Downloads\Double\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DD.exe
+C:\Users\Ibuki\Downloads\Double\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DD.pdb
+C:\Users\15190\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DD.exe.config
+C:\Users\15190\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DD.exe
+C:\Users\15190\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DD.pdb
+C:\Users\15190\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\15190\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\15190\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DD.Properties.Resources.resources
+C:\Users\15190\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\15190\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DD.exe
+C:\Users\15190\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DD.pdb
+C:\Users\Ibuki\Downloads\phi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Ibuki\Downloads\phi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ibuki\Downloads\phi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DD.Properties.Resources.resources
+C:\Users\Ibuki\Downloads\phi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Ibuki\Downloads\phi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DD.exe
+C:\Users\Ibuki\Downloads\phi\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\DD.pdb
+C:\Users\Ibuki\Downloads\phi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DD.exe.config
+C:\Users\Ibuki\Downloads\phi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DD.exe
+C:\Users\Ibuki\Downloads\phi\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DD.pdb
+C:\Users\15190\Desktop\YOKOI_(truth)\WindowsFormsApp1\bin\Debug\DD.exe.config
+C:\Users\15190\Desktop\YOKOI_(truth)\WindowsFormsApp1\bin\Debug\DD.exe
+C:\Users\15190\Desktop\YOKOI_(truth)\WindowsFormsApp1\bin\Debug\DD.pdb
+C:\Users\15190\Desktop\YOKOI_(truth)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\15190\Desktop\YOKOI_(truth)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\15190\Desktop\YOKOI_(truth)\WindowsFormsApp1\obj\Debug\DD.Properties.Resources.resources
+C:\Users\15190\Desktop\YOKOI_(truth)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\15190\Desktop\YOKOI_(truth)\WindowsFormsApp1\obj\Debug\DD.exe
+C:\Users\15190\Desktop\YOKOI_(truth)\WindowsFormsApp1\obj\Debug\DD.pdb
+C:\Users\15190\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\15190\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\15190\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\15190\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\15190\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\15190\Desktop\NHMQ Ver0.001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\15190\Desktop\NHMQ Ver0.001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\15190\Desktop\NHMQ Ver0.001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\15190\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\15190\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\15192\Desktop\NHMQ Ver0.001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\15192\Desktop\NHMQ Ver0.001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\15192\Desktop\NHMQ Ver0.001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\15192\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\15192\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\15192\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\15192\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\15192\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\15192\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\15192\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\15192\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Printf.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ibuki\Desktop\NHMQ Ver0.001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ibuki\Desktop\NHMQ Ver0.001\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ibuki\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Ibuki\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Printf.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Ibuki\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ibuki\Desktop\NHMQ Ver0.001\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\15190\Desktop\NHMQ Ver0.006\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\15190\Desktop\NHMQ Ver0.006\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\15190\Desktop\NHMQ Ver0.006\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\15190\Desktop\NHMQ Ver0.006\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\15190\Desktop\NHMQ Ver0.006\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\15190\Desktop\NHMQ Ver0.006\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\15190\Desktop\NHMQ Ver0.006\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Printf.resources
+C:\Users\15190\Desktop\NHMQ Ver0.006\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\15190\Desktop\NHMQ Ver0.006\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\15190\Desktop\NHMQ Ver0.006\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\15190\Desktop\NHMQ Ver0.006\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\15190\Desktop\NHMQ Ver0.007\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\15190\Desktop\NHMQ Ver0.007\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\15190\Desktop\NHMQ Ver0.007\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\15190\Desktop\NHMQ Ver0.007\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\15190\Desktop\NHMQ Ver0.007\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\15190\Desktop\NHMQ Ver0.007\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\15190\Desktop\NHMQ Ver0.007\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Printf.resources
+C:\Users\15190\Desktop\NHMQ Ver0.007\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\15190\Desktop\NHMQ Ver0.007\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\15190\Desktop\NHMQ Ver0.007\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\15190\Desktop\NHMQ Ver0.007\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\15192\Desktop\NHMQ Ver0.008\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\15192\Desktop\NHMQ Ver0.008\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\15192\Desktop\NHMQ Ver0.008\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\15192\Desktop\NHMQ Ver0.008\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\15192\Desktop\NHMQ Ver0.008\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\15192\Desktop\NHMQ Ver0.008\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\15192\Desktop\NHMQ Ver0.008\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Printf.resources
+C:\Users\15192\Desktop\NHMQ Ver0.008\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\15192\Desktop\NHMQ Ver0.008\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\15192\Desktop\NHMQ Ver0.008\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\15192\Desktop\NHMQ Ver0.008\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\15192\Desktop\NHMQ Ver0.008\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.If.resources
+C:\Users\15190\Desktop\NHMQ Ver0.010\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\15190\Desktop\NHMQ Ver0.010\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\15190\Desktop\NHMQ Ver0.010\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\15190\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\15190\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\15190\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\15190\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.If.resources
+C:\Users\15190\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Printf.resources
+C:\Users\15190\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\15190\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\15190\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\15190\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\15190\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\15192\Desktop\NHMQ Ver0.010\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\15192\Desktop\NHMQ Ver0.010\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\15192\Desktop\NHMQ Ver0.010\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\15192\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\15192\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\15192\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\15192\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\15192\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.for説明.resources
+C:\Users\15192\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.if説明.resources
+C:\Users\15192\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.printf説明.resources
+C:\Users\15192\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.If.resources
+C:\Users\15192\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Printf.resources
+C:\Users\15192\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\15192\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.scanf説明.resources
+C:\Users\15192\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.switchcase説明.resources
+C:\Users\15192\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.while説明.resources
+C:\Users\15192\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\15192\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\15192\Desktop\NHMQ Ver0.010\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\15190\Desktop\NHMQ Ver0.105\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\15190\Desktop\NHMQ Ver0.105\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\15190\Desktop\NHMQ Ver0.105\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\15190\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\15190\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\15190\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\15190\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\15190\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.for説明.resources
+C:\Users\15190\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.if説明.resources
+C:\Users\15190\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.printf説明.resources
+C:\Users\15190\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.If.resources
+C:\Users\15190\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Printf.resources
+C:\Users\15190\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\15190\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.scanf説明.resources
+C:\Users\15190\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.switchcase説明.resources
+C:\Users\15190\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.while説明.resources
+C:\Users\15190\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\15190\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\15190\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ibuki\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Ibuki\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.for説明.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.if説明.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.printf説明.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.If.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Printf.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.scanf説明.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.switchcase説明.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.while説明.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Ibuki\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ibuki\Desktop\NHMQ Ver0.105\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ibuki\Desktop\NHMQ Ver0.105\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ibuki\Desktop\NHMQ Ver0.105\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ibuki\Desktop\NHMQ Ver0.105\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\15192\Desktop\NHMQ Ver0.107\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\15192\Desktop\NHMQ Ver0.107\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\15192\Desktop\NHMQ Ver0.107\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\15192\Desktop\NHMQ Ver0.107\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\15192\Desktop\NHMQ Ver0.107\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\15192\Desktop\NHMQ Ver0.107\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\15192\Desktop\NHMQ Ver0.107\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\15192\Desktop\NHMQ Ver0.107\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.for説明.resources
+C:\Users\15192\Desktop\NHMQ Ver0.107\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.if説明.resources
+C:\Users\15192\Desktop\NHMQ Ver0.107\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.printf説明.resources
+C:\Users\15192\Desktop\NHMQ Ver0.107\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.If.resources
+C:\Users\15192\Desktop\NHMQ Ver0.107\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Printf.resources
+C:\Users\15192\Desktop\NHMQ Ver0.107\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\15192\Desktop\NHMQ Ver0.107\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.scanf説明.resources
+C:\Users\15192\Desktop\NHMQ Ver0.107\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.switchcase説明.resources
+C:\Users\15192\Desktop\NHMQ Ver0.107\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.while説明.resources
+C:\Users\15192\Desktop\NHMQ Ver0.107\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\15192\Desktop\NHMQ Ver0.107\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\15192\Desktop\NHMQ Ver0.107\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\15190\Desktop\NHMQ Ver0.108\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\15190\Desktop\NHMQ Ver0.108\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\15190\Desktop\NHMQ Ver0.108\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\15190\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\15190\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\15190\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\15190\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\15190\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.for説明.resources
+C:\Users\15190\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.if説明.resources
+C:\Users\15190\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.printf説明.resources
+C:\Users\15190\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.If.resources
+C:\Users\15190\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Printf.resources
+C:\Users\15190\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\15190\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.scanf説明.resources
+C:\Users\15190\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.switchcase説明.resources
+C:\Users\15190\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.while説明.resources
+C:\Users\15190\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\15190\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\15190\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.for説明.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.if説明.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.printf説明.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.If.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Printf.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.scanf説明.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.switchcase説明.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.while説明.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ibuki\Desktop\NHMQ Ver0.108\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.For.resources
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.For.resources
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.for説明.resources
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.if説明.resources
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.printf説明.resources
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.If.resources
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Printf.resources
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.scanf説明.resources
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.switchcase説明.resources
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.while説明.resources
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\15190\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.For.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.for説明.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.if説明.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.printf説明.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.If.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Printf.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.scanf説明.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.switchcase説明.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.while説明.resources
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ibuki\Desktop\NHMQ Ver0.i+\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.For.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.for説明.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.if説明.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.printf説明.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.If.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Printf.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.scanf説明.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.switchcase説明.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.while説明.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Scanf.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sleep.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.For.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.for説明.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.if説明.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.printf説明.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.If.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Printf.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Scanf.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.scanf説明.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sleep.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.switchcase説明.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.while説明.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sub.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EndProcessing.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EndProcessing.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sub.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.While.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pass.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Debug.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Debug.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pass.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.While.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Exit説明.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.getchar説明.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sleep説明.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.substitute説明.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Debug.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EndProcessing.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Exit説明.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.For.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.for説明.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.getchar説明.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.if説明.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Pass.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.printf説明.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.If.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Printf.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Scanf.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.scanf説明.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sleep.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sleep説明.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.substitute説明.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Sub.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.switchcase説明.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.While.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.while説明.resources
+C:\Users\Mirror\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Exit説明.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.getchar説明.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.sleep説明.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.substitute説明.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.rand.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.rand.resources
+C:\Users\Ibuki\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.rand説明.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.rand説明.resources
+C:\Users\15190\Desktop\Gear\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.getchar.resources
